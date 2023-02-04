@@ -1,5 +1,0 @@
-{
-    "targetFramework": "net6.0",
-    "netCoreProjectFile": true,
-    "packageName": "EnodeApi"
-}
