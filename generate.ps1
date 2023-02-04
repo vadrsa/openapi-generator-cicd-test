@@ -1,0 +1,2 @@
+# java -jar openapi-generator-cli.jar generate -i v1.json -g csharp-netcore -o C:/Users/Davit.Asryan/git/enode/output1 -c config.json
+docker run --rm -v "${PWD}:/local" openapitools/openapi-generator-cli generate -i /local/v1.json -g csharp-netcore -o /local/output2 -c /local/config.json
